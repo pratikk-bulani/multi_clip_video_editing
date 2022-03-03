@@ -2,6 +2,10 @@
 
 This is my own implementation of the paper: "Multi-Clip Video Editing from a Single Viewpoint" linked https://hal.inria.fr/hal-01067093/document
 
+## Dataset
+
+Please download the dataset from the link: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/pratikkumar_bulani_alumni_iiit_ac_in/EsyJYpTHMrlHvjq7TV98RVwBjfLs2lymKt0l8-fafL1CPA?e=GrrfXM
+
 ## Execution
 
 In order to execute, run the script.py file. Modify the ```execution_dict = {video_name: [shots to extract]}```
